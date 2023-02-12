@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @ThwetYinNyein
+- 👋 Hi, I’m ThwetYinNyein.
 - 👀 I’m interested in artificial intelligence.
-- 🌱 I’m currently learning ML and OpenCV.
+- 🌱 I’m currently learning ML algorithms.
 - 💞️ I’m looking to collaborate on ML projects.
-- 📫 How to reach me via
-- mail     : thwetyinnyein@gmail.com
-- Facebook : Thwet Yin Nyein
+- 📫 You can reach me via [Email](https://pages.github.com/) and [LinkedIn](https://www.linkedin.com/in/thwet-yin-nyein/).
+
+
 
 <!---
 ThwetYinNyein/ThwetYinNyein is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
