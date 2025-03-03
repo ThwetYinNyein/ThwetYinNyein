@@ -1,8 +1,8 @@
 - 👋 Hi, I’m ThwetYinNyein.
-- 👀 I’m interested in artificial intelligence.
-- 🌱 I’m currently learning ML algorithms.
-- 💞️ I’m looking to collaborate on ML projects.
-- 📫 You can reach me via [Email](https://pages.github.com/) and [LinkedIn](https://www.linkedin.com/in/thwet-yin-nyein/).
+- 👀 I’m interested in NLP and CV.
+- 🌱 I’m currently working on LLMs projects.
+- 💞️ I’m looking to collaborate on innovative ideas.
+- 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/thwet-yin-nyein/).
 
 
 
