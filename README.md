@@ -2,20 +2,21 @@
 
 ### 📚 I’ve worked on projects like:
 
-* Hairstyle Recommender using Face Shape
-* Sentiment Analysis for Twitter
+* Hairstyle Recommender based on Face Shape
 * Myanmar Township Dashboard & GeoSpatial Analytics
 * Educational AR App with Vuforia
 * LLM + RAG Customer Support System (ICAIT 2024 presenter)
 
 ### 🏆 Awards & Achievements
 
+- 🎤 **Presented Paper @ ICAIT 2024** – *Document Query System using LLM + RAG*  
+   ⤷ Focused on automating customer support using open-source LLMs
 - 🥉 **2nd Runner-Up** – *Xscape*, Myanmar Game Dev Competition 2019  
    ⤷ Role: AI Developer & Material Designer (Unreal Engine + C++)
-- 🏅 **Best Project of All Time** – *Twitter Sentiment Analysis*, Simbolo  
+- 🏅 **Best NLP Project of All Time** – *Twitter Sentiment Analysis*, Simbolo  
    ⤷ Role: Machine Learning Engineer (NLP with Naive Bayes)
-- 🎤 **Presenter @ ICAIT 2024** – *Document Query System using LLM + RAG*  
-   ⤷ Focused on automating customer support using open-source LLMs
+- 🏅 **Champion Award Winner** – *Haunted Asylum Game with Unreal*  
+   ⤷ Role: Developer and Sound Designer
 
 ### Languages
 
